@@ -47,5 +47,7 @@ class MainActivity : AppCompatActivity() {
             }
         })
         viewModel.getAllMovies()
+
+        //Second commit
     }
 }
